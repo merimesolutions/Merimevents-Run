@@ -1,0 +1,11 @@
+
+ @media print{
+ 	@page{size: a4 landscape;}
+    #no-print{
+    display: none !important;
+}
+}
+body{
+	/*margin: 50px;*/
+	
+}

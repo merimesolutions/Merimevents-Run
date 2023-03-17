@@ -1,0 +1,41 @@
+.property-box-2 {
+	background: #FFFFFF;
+	margin-bottom: 30px;
+	border: none;
+	border-radius: 0;
+}
+
+.property-box-2:hover {
+	box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.10), 0 3px 3px 0 rgba(0, 0, 0, 0.10);
+}
+
+.property-box-2 img {
+	border-radius: 0;
+	width: 100%;
+}
+
+.property-box-2 .detail {
+	padding: 20px 20px;
+	text-align: left;
+}
+
+.property-box-2 .detail p {
+	font-size: 14px;
+	margin: 0;
+	color: #656565;
+}
+
+.property-box-2 .detail h5 {
+	margin-bottom: 10px;
+}
+
+.property-box-2 .detail h5 a {
+	font-size: 18px;
+}
+
+.property-box-2 .detail h4 {
+	letter-spacing: 1px;
+	font-weight: 500;
+	margin-bottom: 15px;
+	font-size: 12px;
+}

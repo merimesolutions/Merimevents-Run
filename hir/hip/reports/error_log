@@ -1,0 +1,112 @@
+[22-Mar-2021 18:14:51 Africa/Nairobi] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php:14) in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php(73): FPDF->Output()
+#3 {main}
+  thrown in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php on line 271
+[22-Mar-2021 18:15:23 Africa/Nairobi] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php:14) in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php(73): FPDF->Output()
+#3 {main}
+  thrown in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php on line 271
+[22-Mar-2021 18:15:26 Africa/Nairobi] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php:14) in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php(73): FPDF->Output()
+#3 {main}
+  thrown in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php on line 271
+[22-Mar-2021 18:16:10 Africa/Nairobi] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php:14) in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php(73): FPDF->Output()
+#3 {main}
+  thrown in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php on line 271
+[22-Mar-2021 18:16:37 Africa/Nairobi] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php:14) in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php(73): FPDF->Output()
+#3 {main}
+  thrown in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php on line 271
+[22-Mar-2021 18:16:41 Africa/Nairobi] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php:14) in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php(73): FPDF->Output()
+#3 {main}
+  thrown in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php on line 271
+[22-Mar-2021 18:17:06 Africa/Nairobi] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php:14) in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php(73): FPDF->Output()
+#3 {main}
+  thrown in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php on line 271
+[22-Mar-2021 18:17:59 Africa/Nairobi] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php:14) in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php(73): FPDF->Output()
+#3 {main}
+  thrown in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php on line 271
+[22-Mar-2021 18:18:45 Africa/Nairobi] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php:14) in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php(73): FPDF->Output()
+#3 {main}
+  thrown in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php on line 271
+[22-Mar-2021 18:19:32 Africa/Nairobi] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php:14) in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php(73): FPDF->Output()
+#3 {main}
+  thrown in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php on line 271
+[22-Mar-2021 18:19:58 Africa/Nairobi] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php:14) in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php(73): FPDF->Output()
+#3 {main}
+  thrown in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php on line 271
+[27-Mar-2021 15:19:23 Africa/Nairobi] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php:14) in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php(73): FPDF->Output()
+#3 {main}
+  thrown in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php on line 271
+[27-Mar-2021 15:19:28 Africa/Nairobi] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php:14) in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php(73): FPDF->Output()
+#3 {main}
+  thrown in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php on line 271
+[31-Mar-2021 12:15:17 Africa/Nairobi] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/merimeke/system.merimesolutions.com/hir/hip/reports/ocrr.php:15) in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home2/merimeke/system.merimesolutions.com/hir/hip/reports/ocrr.php(127): FPDF->Output()
+#3 {main}
+  thrown in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php on line 271
+[08-Apr-2021 16:58:25 Africa/Nairobi] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php:14) in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php(73): FPDF->Output()
+#3 {main}
+  thrown in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php on line 271
+[08-Apr-2021 17:00:37 Africa/Nairobi] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php:14) in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php:271
+Stack trace:
+#0 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home2/merimeke/system.merimesolutions.com/hir/hip/reports/air.php(73): FPDF->Output()
+#3 {main}
+  thrown in /home2/merimeke/system.merimesolutions.com/hir/hip/fpdf/fpdf.php on line 271
